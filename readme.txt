@@ -5,3 +5,4 @@ Git tracks changes of files.
 test connect to github
 Create a new branch is quick.
 Create branch dev;
+bug;
